@@ -1,0 +1,4 @@
+﻿  源.cpp
+D:\学习\程序\实训\演讲比赛系统\Function.h(17,13): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\学习\程序\实训\演讲比赛系统\Function.h(155,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  演讲比赛系统.vcxproj -> D:\学习\程序\实训\x64\Debug\演讲比赛系统.exe
